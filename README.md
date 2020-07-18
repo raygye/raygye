@@ -8,7 +8,7 @@
 <br />
 <br />
 
-Hi, I'm Gary Ye, an Computer Engineering student at the University of Waterloo, and an aspiring Full Stack Software Developer. 
+Hi, I'm Gary Ye, a Computer Engineering student at the University of Waterloo, and an aspiring Full Stack Software Developer. 
 
 Feel free to take a look at what I do!
 
