@@ -5,7 +5,7 @@
 <br />
 <br />
 
-Hi, I'm Gary Ye, an Computer Engineering student at the University of Waterloo as well an aspiring Full Stack Software Developer. 
+Hi, I'm Gary Ye, an Computer Engineering student at the University of Waterloo as well an aspiring Full Stack Software Developer. Everyone talks about how they love programming, but it's Github so you're just a click away from seeing what I do anyway. My hobbies include badminton, mechanical keyboards, hitting the gym, watching TV/anime, and playing video games like League of Legends and Valorant.
 
   <img align="right" alt="Seal" width="400px" src="https://blog.humanesociety.org/wp-content/uploads/2019/04/MARK_GLOVER_2009B_194971.jpg" />
 
@@ -20,7 +20,9 @@ Hi, I'm Gary Ye, an Computer Engineering student at the University of Waterloo a
 <code><img height="30" title="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="30" title="react" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="30" title="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="30" title="express src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png"></code>
 <code><img height="30" title="c++" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
+<code><img height="30" title="java src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
 <code><img height="30" title="php" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
 <code><img height="30" title="jquery" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jquery/jquery.png"></code>
 <code><img height="30" title="python" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
