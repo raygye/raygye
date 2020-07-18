@@ -14,9 +14,9 @@ Feel free to take a look at what I do!
 
 
 **Some Highlights:**
-- duel-rps (Duel! Rock-Paper-Scissors): a multiplayer, multi-page website with mini user profiles, **MERN**
-- ttc-predictions: a compact webapp that displays live bus ETAs and locations, **jQuery/AJAX for the most part**
-- hush: an message encryption program using OTP encryption, **C++ backend, JavaFX frontend**
+- [duel-rps](https://github.com/raygye/duel-rps-backend) (Duel! Rock-Paper-Scissors): a multiplayer, multi-page website with mini user profiles, **MERN**
+- [ttc-predictions](https://github.com/raygye/ttc_predictions): a compact webapp that displays live bus ETAs and locations, **jQuery/AJAX for the most part**
+- [hush](https://github.com/raygye/Hush): an message encryption program using OTP encryption, **C++ backend, JavaFX frontend**
 
 **Languages and Tools:**  
 
