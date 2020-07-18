@@ -1,4 +1,4 @@
-### Welcome 😊, and thanks for visiting!
+### Welcome! Thanks for visiting!
 <a href="https://www.linkedin.com/in/raygye/">
   <img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
