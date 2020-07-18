@@ -32,4 +32,4 @@ Feel free to take a look at what I do!
 <code><img height="30" title="mongodb" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
 <code><img height="30" title="git" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-
+Thanks for reading, [have a seal :)](https://www.youtube.com/watch?v=m3L3uuGw1jM)
