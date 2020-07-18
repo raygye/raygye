@@ -18,7 +18,7 @@ Feel free to take a look at what I do!
 - 💦 Hitting the gym 
 - 🎮 Video games (League of Legends and Valorant mostly)
 - 📺 TV/Anime
-- 😍 If you couldn't tell, I love seals
+- 😍 I love seals, [they're adorable](https://www.youtube.com/watch?v=m3L3uuGw1jM)
 
 **Languages and Tools:**  
 
