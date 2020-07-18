@@ -13,13 +13,10 @@ Hi, I'm Gary Ye, a Computer Engineering student at the University of Waterloo, a
 Feel free to take a look at what I do!
 
 
-**Interests:**
-- 🏸 Badminton
-- 💦 Hitting the gym 
-- 🎮 Video games
-- 📺 TV/Anime
-- 😍 I love seals, [they're adorable](https://www.youtube.com/watch?v=m3L3uuGw1jM)
-
+**Some Highlights:**
+- duel-rps (Duel! Rock-Paper-Scissors): a multiplayer, multi-page website with mini user profiles, **MERN**
+- ttc-predictions: a compact webapp that displays live bus ETAs and locations, **jquery/ajax for the most part**
+- hush: an message encryption program using OTP encryption, **C++ backend, JavaFX frontend**
 **Languages and Tools:**  
 
 <code><img height="30" title="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
