@@ -8,15 +8,16 @@
 <br />
 <br />
 
-Hi, I'm Gary Ye, an Computer Engineering student at the University of Waterloo as well an aspiring Full Stack Software Developer. 
+Hi, I'm Gary Ye, an Computer Engineering student at the University of Waterloo as well an aspiring Full Stack Software Developer. Feel free to take a lot at what I do!
 
   <img align="right" alt="Seal" width="400px" src="https://blog.humanesociety.org/wp-content/uploads/2019/04/MARK_GLOVER_2009B_194971.jpg" />
 
-**Some Cool Info:**
-
-- 💬 I'm always open to talk, whether it be about tech, opportunities, or otherwise
+**Interests:**
+- 🏸 Badminton
+- 💦 Hitting the gym 
+- 🎮 Video games (League of Legends and Valorant mostly)
+- 📺 TV/Anime
 - 😍 If you couldn't tell, I love seals
-- 📫 Email: gary.ye@uwaterloo.ca
 
 **Languages and Tools:**  
 
