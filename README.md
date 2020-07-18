@@ -7,7 +7,7 @@
 
 Hi, I'm Gary Ye, an Computer Engineering student at the University of Waterloo as well an aspiring Full Stack Software Developer. 
 
-  <img align="right" alt="Seal" src="https://blog.humanesociety.org/wp-content/uploads/2019/04/MARK_GLOVER_2009B_194971.jpg" />
+  <img align="right" alt="Seal" width="400px"src="https://blog.humanesociety.org/wp-content/uploads/2019/04/MARK_GLOVER_2009B_194971.jpg" />
 
 **Some Cool Info:**
 
@@ -27,5 +27,3 @@ Hi, I'm Gary Ye, an Computer Engineering student at the University of Waterloo a
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
 
-
-![Gary's Github Stats](https://github-readme-stats.vercel.app/api?username=raygye&show_icons=true&hide_border=true)
