@@ -12,7 +12,6 @@ Hi, I'm Gary Ye, a Computer Engineering student at the University of Waterloo, a
 
 Feel free to take a look at what I do!
 
-  <img align="right" alt="Seal" width="300px" src="https://blog.humanesociety.org/wp-content/uploads/2019/04/MARK_GLOVER_2009B_194971.jpg" />
 
 **Interests:**
 - 🏸 Badminton
