@@ -16,7 +16,7 @@ Feel free to take a look at what I do!
 **Interests:**
 - 🏸 Badminton
 - 💦 Hitting the gym 
-- 🎮 Video games (League of Legends and Valorant mostly)
+- 🎮 Video games
 - 📺 TV/Anime
 - 😍 I love seals, [they're adorable](https://www.youtube.com/watch?v=m3L3uuGw1jM)
 
