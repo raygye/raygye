@@ -35,4 +35,4 @@ Feel free to take a look at what I do!
 
 Thanks for reading, [have a great day!](https://www.youtube.com/watch?v=m3L3uuGw1jM)
 
-![](https://komarev.com/ghpvc/?username=raygye&color=blue)
+![](https://komarev.com/ghpvc/?username=raygye&color=green)
