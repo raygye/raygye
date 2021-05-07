@@ -36,6 +36,6 @@ Feel free to take a look at what I do!
 <code><img height="30" title="bash" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png"></code>
 <code><img height="30" title="git" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-Thanks for reading, [have a great day!](https://www.youtube.com/watch?v=m3L3uuGw1jM)
+Thanks for reading, [have a great day!](https://www.youtube.com/watch?v=J53UK_bul5Y)
 
 ![](https://komarev.com/ghpvc/?username=raygye&color=green)
