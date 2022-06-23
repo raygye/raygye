@@ -10,6 +10,4 @@
 
 I'm trying to build cool stuff
 
-[Have a wonderful day](https://www.youtube.com/watch?v=J53UK_bul5Y)
-
 ![](https://komarev.com/ghpvc/?username=raygye&color=green)
