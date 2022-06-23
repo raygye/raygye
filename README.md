@@ -13,7 +13,7 @@ Hi, I'm Gary Ye, a Computer Engineering student at the University of Waterloo, a
 Much of what I do now is private, but feel free to snoop through my humble beginnings.
 
 
-**Some Highlights:**
+**If you wanna take a look:**
 - [duel-rps](https://github.com/raygye/duel-rps-backend) (Duel! Rock-Paper-Scissors): a multiplayer, multi-page website with mini user profiles, **MERN**
 - [ttc-predictions](https://github.com/raygye/ttc_predictions): a compact webapp that displays live bus ETAs and locations, **jQuery/AJAX for the most part**
 - [hush](https://github.com/raygye/Hush): an message encryption program using OTP encryption, **C++ backend, JavaFX frontend**
