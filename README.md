@@ -10,7 +10,7 @@
 
 Hi, I'm Gary Ye, a Computer Engineering student at the University of Waterloo, and an aspiring Software Engineer. 
 
-Much of what I do now is private, but feel free to snoop through my humble beginnings.
+Most stuff is private though.
 
 
 **If you wanna take a look:**
