@@ -18,6 +18,6 @@ Most stuff is private though.
 - [ttc-predictions](https://github.com/raygye/ttc_predictions): a compact webapp that displays live bus ETAs and locations, **jQuery/AJAX for the most part**
 - [hush](https://github.com/raygye/Hush): an message encryption program using OTP encryption, **C++ backend, JavaFX frontend**
 
-Thanks for reading, [have a great day!](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+Thanks for reading, [have a great day!](https://www.youtube.com/watch?v=9kjW56JLh0o)
 
 ![](https://komarev.com/ghpvc/?username=raygye&color=green)
